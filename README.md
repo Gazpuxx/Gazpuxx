@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Gazpuxx
 - 👀 I’m interested in learning new stuff about programming, playing minecraft, watching anime.
-- 🌱 I’m currently learning python and java.
-- � If theres something you wanna tell me about you can contact me on discord. My username: Gazpuxx#7979
+- 🌱 I’m currently learning rust.
+- � If theres something you wanna tell me about you can contact me on insta. My username: rizzlerforreal69
